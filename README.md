@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
- ## Sobre Mim
   ### Olá, meu nome é Luiza
   Sou estudante do 1° período de Ciências da Computação, iniciando minha jornada na área da tecnologia. No momento, exploro a área de front-end e me dedico a entender suas principais ferramentas e possibilidades. Tenho mantido uma rotina disciplinada de estudos, conciliando a faculdade com práticas e aprendizados por conta própria. Busco evoluir tecnicamente e me preparar para aproveitar futuras oportunidades na área de tecnologia. 
 
