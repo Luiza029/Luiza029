@@ -2,7 +2,7 @@
 
 
   ### Olá, meu nome é Luiza
-  Sou estudante do 1° período de Ciências da Computação, iniciando minha jornada na área da tecnologia. No momento, exploro a área de front-end e me dedico a entender suas principais ferramentas e possibilidades. Tenho mantido uma rotina disciplinada de estudos, conciliando a faculdade com práticas e aprendizados por conta própria. Busco evoluir tecnicamente e me preparar para aproveitar futuras oportunidades na área de tecnologia. 
+  Sou estudante do 2° período de Ciências da Computação, iniciando minha jornada na área da tecnologia. No momento, exploro a área de front-end e me dedico a entender   suas principais ferramentas e possibilidades. Tenho mantido uma rotina disciplinada de estudos, conciliando a faculdade com práticas e aprendizados por conta própria. Busco evoluir tecnicamente e me preparar para aproveitar futuras oportunidades na área de tecnologia. 
 
 
 ## Skills
