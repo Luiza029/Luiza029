@@ -22,8 +22,6 @@
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiza029&theme=radical"/>
 </div>
 
-<!-- ÍCONES DAS SUAS TECNOLOGIAS -->
-<!-- Dica: Você pode ver mais ícones no repositório github.com/tandpfun/skill-icons -->
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
